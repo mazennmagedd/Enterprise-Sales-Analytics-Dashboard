@@ -92,18 +92,19 @@ The project follows a modern data pipeline architecture:
 # Dashboard Screenshots
 
 ## Executive Overview Dashboard
-(Add screenshot here)
+(<img width="1600" height="900" alt="WhatsApp Image 2026-05-19 at 18 46 51" src="https://github.com/user-attachments/assets/3a0f1316-20e9-44c5-9b48-d9616609e2c0" />)
+
 
 ## Sales Manager Dashboard
-(Add screenshot here)
+(<img width="1600" height="900" alt="WhatsApp Image 2026-05-19 at 18 49 39" src="https://github.com/user-attachments/assets/b8e02a20-8be9-48de-a77f-6e7bca0c0c50" />)
 
 ## Warehouse Operations Dashboard
-(Add screenshot here)
+(<img width="1600" height="900" alt="WhatsApp Image 2026-05-19 at 18 50 49" src="https://github.com/user-attachments/assets/e0a75dbf-a9e6-4a3d-bad6-088d0dbb8a1f" />)
 
 ## Cross-Channel Analytics Dashboard
-(Add screenshot here)
+(<img width="1600" height="900" alt="WhatsApp Image 2026-05-19 at 18 51 46" src="https://github.com/user-attachments/assets/141efed2-b395-4404-988c-c51a0219c5a3" />)
 
 ---
 
 # Author
-Dr. Maged
+Mazen Maged
